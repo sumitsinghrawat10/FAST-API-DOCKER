@@ -1,0 +1,52 @@
+[
+    {
+        "id": "CFN-2026-001",
+        "title": "Bank penalized for unauthorized hidden charges levied on credit card by State",
+        "description": "The State Consumer Disputes Redressal Commission (SCDRC) passed a landmark judgment regarding a dispute in the Real Estate sector. The complainant was awarded compensation for mental agony and financial loss.",
+        "category": "Real Estate",
+        "forum_authority": "State Consumer Disputes Redressal Commission (SCDRC)",
+        "published_at": "2026-06-13",
+        "compensation_amount_inr": 902542,
+        "status": "Under Appeal"
+    },
+    {
+        "id": "CFN-2026-002",
+        "title": "Bank penalized for unauthorized hidden charges levied on credit card by District",
+        "description": "The District Consumer Disputes Redressal Commission (DCDRC) passed a landmark judgment regarding a dispute in the Automobile sector. The complainant was awarded compensation for mental agony and financial loss.",
+        "category": "Automobile",
+        "forum_authority": "District Consumer Disputes Redressal Commission (DCDRC)",
+        "published_at": "2026-05-05",
+        "compensation_amount_inr": 1333325,
+        "status": "Resolved"
+    },
+    {
+        "id": "CFN-2026-003",
+        "title": "Real estate builder ordered to refund booking amount with interest by National",
+        "description": "The National Consumer Disputes Redressal Commission (NCDRC) passed a landmark judgment regarding a dispute in the Aviation sector. The complainant was awarded compensation for mental agony and financial loss.",
+        "category": "Aviation",
+        "forum_authority": "National Consumer Disputes Redressal Commission (NCDRC)",
+        "published_at": "2026-01-08",
+        "compensation_amount_inr": 563948,
+        "status": "Resolved"
+    },
+    {
+        "id": "CFN-2026-004",
+        "title": "Hospital fined for medical negligence and overcharging during surgery by District",
+        "description": "The District Consumer Disputes Redressal Commission (DCDRC) passed a landmark judgment regarding a dispute in the Healthcare sector. The complainant was awarded compensation for mental agony and financial loss.",
+        "category": "Healthcare",
+        "forum_authority": "District Consumer Disputes Redressal Commission (DCDRC)",
+        "published_at": "2026-08-03",
+        "compensation_amount_inr": 1466174,
+        "status": "Under Appeal"
+    },
+    {
+        "id": "CFN-2026-005",
+        "title": "Airline penalized for flight cancellation and denied refund by State",
+        "description": "The State Consumer Disputes Redressal Commission (SCDRC) passed a landmark judgment regarding a dispute in the Aviation sector. The complainant was awarded compensation for mental agony and financial loss.",
+        "category": "Aviation",
+        "forum_authority": "State Consumer Disputes Redressal Commission (SCDRC)",
+        "published_at": "2026-09-15",
+        "compensation_amount_inr": 1123456,
+        "status": "Resolved"
+    }
+]
